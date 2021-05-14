@@ -3,6 +3,6 @@
 + 입력 : input() =/ wjdtn, 정수(int), 실수(float) 입력할 때 형변환 하기
 + 출력 : print() => f-string
 + if문
- + If ,,, : 명령문 elif ,,, : 명령문 else :
+  + If ,,, : 명령문 elif ,,, : 명령문 else :
 + for문 :반복문 => range
 + while문
